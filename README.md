@@ -10,7 +10,6 @@
 💻 Building scalable cloud & containerized solutions  
 ☸️ Kubernetes | 🐳 Docker | ☁️ AWS | 🔁 CI/CD | 🐧 Linux  
 🌱 Currently exploring Advanced Kubernetes, AWS & DevOps Automation  
-📫 Reach me: LinkedIn | Email  
 </p>
 
 ---
@@ -19,56 +18,72 @@
 
 | Domain | Skills | Projects |
 |--------|--------|----------|
-| ☁️ Cloud | AWS | - 3 Tier Architecture with Load Balancer & Auto Scaling<br>- Static Website Hosting using S3 & CloudFront<br>- IAM & EC2 Hands-on Labs<br>- VPC Basics with Public & Private Subnets |
-| 🔁 DevOps | Jenkins, Git, GitHub, Docker | - CI/CD Pipeline for Dockerized PHP App (Jenkins + GitHub + Docker Hub)<br>- Node.js App Deployment using Jenkins (Freestyle & Pipeline)<br>- GitHub Automation & Webhooks<br>- GitLab to GitHub Repository Mirroring |
-| ☸️ Kubernetes | Pods, Deployments, Services, Probes | - Kubernetes Startup, Liveness & Readiness Probes Lab<br>- Kubernetes ReplicationController & ReplicaSet<br>- Kubernetes Load Balancing with Services<br>- CrashLoopBackOff Debugging |
-| 🐧 Linux | Ubuntu, Amazon Linux | - User & Permission Management<br>- Package Management (apt, yum)<br>- Process & Disk Management |
-| 🗄️ Databases | MySQL (Basics) | - PHP Registration Form with MySQL<br>- LEMP Stack Practice |
+| ☁️ Cloud | AWS | - 3 Tier Architecture with Load Balancer & Auto Scaling<br>- Static Website Hosting using S3 & CloudFront<br>- IAM & EC2 Hands-on Labs<br>- VPC with Public & Private Subnets |
+| 🔁 DevOps | Jenkins, Git, GitHub, Docker | - CI/CD Pipeline for Dockerized PHP App<br>- Jenkins Freestyle & Pipeline Jobs<br>- GitHub Webhooks Automation<br>- GitLab to GitHub Repo Mirroring |
+| ☸️ Kubernetes | Pods, Deployments, Services, Probes | - Startup, Liveness & Readiness Probes<br>- ReplicationController & ReplicaSet<br>- Kubernetes Services & Load Balancing<br>- CrashLoopBackOff Debugging |
+| 🐧 Linux | Ubuntu, Amazon Linux | - User & Permission Management<br>- Package Management (apt, yum)<br>- Process & Disk Monitoring |
+| 🗄️ Databases | MySQL | - PHP Registration Form with MySQL<br>- LEMP Stack Practice |
 
 ---
 
-## 📂 My GitHub Repositories (Hands-on Work)
+## 📂 My GitHub Repositories
 
 ### ☸️ Kubernetes
-- 🔹 **K8s ReplicationController & ReplicaSet**  
-  👉 https://github.com/Rajiv1851/K8s-ReplicationController-ReplicationSet
-
-- 🔹 **Kubernetes Startup Probe with NGINX**  
-  👉 https://github.com/Rajiv1851/Kubernetes-Startup-Probe-with-NGINX
-
-- 🔹 **Kubernetes Deployment Health Checks (Liveness & Readiness)**  
-  👉 https://github.com/Rajiv1851/Kubernetes-Deployment-Health-Checks-Liveness-Readiness-
-
-- 🔹 **Kubernetes Load Balancing using Services**  
-  👉 https://github.com/Rajiv1851/k8s-using-loadbalancing
-
----
+- 🔹 [K8s ReplicationController & ReplicaSet](https://github.com/Rajiv1851/K8s-ReplicationController-ReplicationSet)
+- 🔹 [Kubernetes Startup Probe with NGINX](https://github.com/Rajiv1851/Kubernetes-Startup-Probe-with-NGINX)
+- 🔹 [Kubernetes Deployment Health Checks](https://github.com/Rajiv1851/Kubernetes-Deployment-Health-Checks-Liveness-Readiness-)
+- 🔹 [Kubernetes Load Balancing using Services](https://github.com/Rajiv1851/k8s-using-loadbalancing)
 
 ### 🔁 DevOps / Automation
-- 🔹 **Automated EC2 to Google Drive Backup using Rclone**  
-  👉 https://github.com/Rajiv1851/Automated-EC2-to-Google-Drive-Backup-with-Rclone
+- 🔹 [Automated EC2 to Google Drive Backup with Rclone](https://github.com/Rajiv1851/Automated-EC2-to-Google-Drive-Backup-with-Rclone)
 
 ---
 
 ## 🛠️ Hands-on Projects
 
-- ☸️ **Kubernetes Startup Probe with NGINX**
-- 🔁 **CI/CD Pipeline for Dockerized PHP App**
-- 🐳 **Dockerized PHP + MySQL 3-Tier Application**
-- ☁️ **AWS 3-Tier Architecture with Load Balancer**
-- ⚙️ **Jenkins Freestyle & Declarative Pipelines**
-- 🧪 **Kubernetes CrashLoopBackOff Debugging Labs**
+- ☸️ Kubernetes Startup Probe with NGINX
+- 🔁 CI/CD Pipeline for Dockerized PHP App
+- 🐳 Dockerized PHP + MySQL Application
+- ☁️ AWS 3-Tier Architecture with Load Balancer
+- ⚙️ Jenkins CI/CD Pipelines
+- 🧪 Kubernetes Troubleshooting Labs
 
 ---
 
-## ✍ Learning & Practice Areas
+## 🛠️ Languages & Tools
 
-- Advanced Kubernetes (Probes, Scaling, Deployments)
-- Jenkins CI/CD Pipelines
-- AWS Cloud Architecture
-- Docker Multi-Stage Builds
-- DevOps Automation
-- Monitoring & Troubleshooting
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/Rajiv1851" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rajiv-nakhawa-4b512428a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/rajiv_nakhawa_004" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/>
+  </a>
+  <a href="mailto:rajivnakhwa123@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
 
@@ -77,20 +92,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajiv1851&show_icons=true&theme=default" />
 </p>
-
----
-
-## 🛠️ Languages & Tools
-
-AWS | Docker | Kubernetes | Jenkins | Git | GitHub | Linux | Bash | MySQL | PHP (Basics)
-
----
-
-## 🌐 Where to find me
-
-- GitHub: https://github.com/Rajiv1851  
-- LinkedIn: (Add your LinkedIn URL)  
-- Email: (Add your professional email)
 
 ---
 
