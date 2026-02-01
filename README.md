@@ -8,6 +8,7 @@ Welcome to my GitHub portfolio! This table provides a structured overview of my 
 
 | Category       | Repository                                                     | Description                                                           |
 | -------------- | -------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Kubernetes     | Kubernetes Startup Probe with NGINX                            | Implemented startupprobe for self-healthchecking                      |
 | Kubernetes     | Kubernetes-Deployment-Health-Checks-Liveness-Readiness         | Implemented liveness & readiness probes for self-healing applications |
 | Kubernetes     | K8s-ReplicationController-ReplicationSet                       | Practiced ReplicationControllers & ReplicaSets with scaling           |
 | Kubernetes     | k8s-using-loadbalancing                                        | Implemented Kubernetes Services and pod load balancing                |
